@@ -1,0 +1,502 @@
+Name,Age,Nationality,Actual Value EUR(M),Predicted Value EUR(M)
+L. Messi,31,Argentina,110.5,77.7
+Cristiano Ronaldo,33,Portugal,77.0,78.8
+Neymar Jr,26,Brazil,118.5,71.1
+De Gea,27,Spain,72.0,58.4
+K. De Bruyne,27,Belgium,102.0,64.7
+E. Hazard,27,Belgium,93.0,60.7
+L. Modri?,32,Croatia,67.0,60.0
+L. Suárez,31,Uruguay,80.0,65.0
+Sergio Ramos,32,Spain,51.0,54.1
+J. Oblak,25,Slovenia,68.0,52.7
+R. Lewandowski,29,Poland,77.0,58.8
+T. Kroos,28,Germany,76.5,55.2
+D. Godín,32,Uruguay,44.0,47.6
+David Silva,32,Spain,60.0,58.2
+N. Kanté,27,France,63.0,56.4
+P. Dybala,24,Argentina,89.0,65.9
+H. Kane,24,England,83.5,62.5
+A. Griezmann,27,France,78.0,58.4
+M. ter Stegen,26,Germany,58.0,49.0
+T. Courtois,26,Belgium,53.5,40.0
+Sergio Busquets,29,Spain,51.5,50.2
+E. Cavani,31,Uruguay,60.0,56.8
+M. Neuer,32,Germany,38.0,40.1
+S. Agüero,30,Argentina,64.5,56.1
+G. Chiellini,33,Italy,27.0,37.7
+K. Mbappé,19,France,81.0,69.8
+M. Salah,26,Egypt,69.5,55.1
+Casemiro,26,Brazil,59.5,46.6
+J. Rodríguez,26,Colombia,69.5,49.1
+L. Insigne,27,Italy,62.0,42.8
+Isco,26,Spain,73.5,46.9
+C. Eriksen,26,Denmark,73.5,58.1
+Coutinho,26,Brazil,69.5,45.8
+P. Aubameyang,29,Gabon,59.0,49.1
+M. Hummels,29,Germany,46.0,45.2
+Marcelo,30,Brazil,43.0,46.8
+G. Bale,28,Wales,60.0,45.5
+H. Lloris,31,France,36.0,35.0
+G. Higuaín,30,Argentina,57.0,48.8
+Thiago Silva,33,Brazil,24.0,37.4
+S. Handanovi?,33,Slovenia,30.0,32.6
+G. Buffon,40,Italy,4.0,32.3
+S. Umtiti,24,France,57.0,48.8
+M. Icardi,25,Argentina,64.5,56.0
+K. Koulibaly,27,Senegal,51.0,35.7
+P. Pogba,25,France,64.0,50.2
+K. Navas,31,Costa Rica,30.5,32.8
+R. Lukaku,25,Belgium,62.5,49.6
+C. Immobile,28,Italy,52.0,44.8
+Jordi Alba,29,Spain,38.0,39.1
+D. Mertens,31,Belgium,45.0,46.2
+J. Vertonghen,31,Belgium,34.0,37.2
+M. Hamík,30,Slovakia,46.5,45.2
+I. Rakiti?,30,Croatia,46.5,35.6
+Piqué,31,Spain,34.0,40.6
+L. Sané,22,Germany,61.0,53.7
+Bernardo Silva,23,Portugal,59.5,50.8
+Ederson,24,Brazil,41.5,43.2
+S. Mané,26,Senegal,52.0,43.3
+V. van Dijk,26,Netherlands,44.5,38.8
+R. Sterling,23,England,56.5,48.5
+Roberto Firmino,26,Brazil,53.0,44.4
+R. Varane,25,France,50.0,46.3
+M. Verratti,25,Italy,55.0,45.5
+Alex Sandro,27,Brazil,36.5,32.5
+Douglas Costa,27,Brazil,46.5,35.1
+T. Müller,28,Germany,45.0,46.5
+Thiago,27,Spain,45.5,36.1
+M. Reus,29,Germany,43.5,42.2
+Azpilicueta,28,Spain,35.0,36.1
+L. Bonucci,31,Italy,30.0,33.2
+T. Alderweireld,29,Belgium,39.0,36.9
+M. Pjani?,28,Bosnia Herzegovina,44.0,34.4
+M. Benatia,31,Morocco,30.0,31.3
+M. Özil,29,Germany,43.5,38.2
+Fernandinho,33,Brazil,18.0,38.8
+Iniesta,34,Spain,21.5,40.5
+M. kriniar,23,Slovakia,46.5,48.3
+S. Milinkovi?-Savi?,23,Serbia,50.5,46.4
+Marco Asensio,22,Spain,54.0,54.3
+N. Fekir,24,France,50.0,43.1
+Alisson,25,Brazil,36.5,40.8
+J. Kimmich,23,Germany,40.5,42.1
+Saúl,23,Spain,50.5,47.8
+R. Mahrez,27,Algeria,40.5,27.4
+D. Alaba,26,Austria,38.0,37.1
+Koke,26,Spain,45.0,36.8
+A. Lacazette,27,France,45.0,39.8
+K. Manolas,27,Greece,37.5,28.9
+N. Otamendi,30,Argentina,28.5,26.5
+Parejo,29,Spain,37.0,29.6
+Paulinho,29,Brazil,37.0,34.8
+W. Szcz?sny,28,Poland,32.0,29.0
+A. Sánchez,29,Chile,37.5,33.8
+Y. Brahimi,28,Algeria,39.0,33.1
+J. Boateng,29,Germany,30.0,25.4
+A. Vidal,31,Chile,26.0,34.4
+I. Perii?,29,Croatia,37.5,31.8
+E. Deko,32,Bosnia Herzegovina,30.5,36.4
+S. Khedira,31,Germany,33.0,36.9
+Diego Costa,29,Spain,38.5,37.4
+R. Nainggolan,30,Belgium,35.5,36.3
+Naldo,35,Brazil,9.0,31.6
+B. Matuidi,31,France,26.0,32.5
+Miranda,33,Brazil,15.5,27.0
+K. Benzema,30,France,37.0,35.1
+Filipe Luís,32,Brazil,21.5,33.0
+V. Kompany,32,Belgium,22.0,31.8
+Pepe,35,Portugal,9.0,27.5
+Z. Ibrahimovi?,36,Sweden,14.0,36.0
+D. Sánchez,22,Colombia,34.0,31.8
+J. Giménez,23,Uruguay,34.0,26.2
+Alex Telles,25,Brazil,32.0,36.3
+A. Laporte,24,France,34.0,37.0
+Bruno Fernandes,23,Portugal,40.5,42.0
+N. Süle,22,Germany,36.5,32.5
+A. Martial,22,France,42.5,46.8
+D. Alli,22,England,42.5,51.5
+Fabinho,24,Brazil,34.0,40.3
+Marquinhos,24,Brazil,35.5,36.6
+William Carvalho,26,Portugal,31.5,24.9
+Jorginho,26,Italy,38.0,37.1
+F. Thauvin,25,France,39.0,39.4
+Carvajal,26,Spain,31.5,32.3
+M. Depay,24,Netherlands,42.0,41.8
+H. Son,25,Korea Republic,37.0,33.8
+A. Lopes,27,Portugal,25.0,27.6
+S. de Vrij,26,Netherlands,31.5,22.8
+M. Perin,25,Italy,29.5,30.9
+J. Cuadrado,30,Colombia,29.5,24.5
+Iago Aspas,30,Spain,30.0,33.5
+B. Leno,26,Germany,27.0,26.0
+N. Mati?,29,Serbia,24.0,27.1
+L. Hrádecký,28,Finland,22.0,19.9
+Illarramendi,28,Spain,31.0,30.2
+K. Walker,28,England,24.5,24.2
+I. Gündo?an,27,Germany,32.0,31.3
+José Callejón,31,Spain,27.5,29.8
+A. Di María,30,Argentina,29.5,26.6
+M. Manduki?,32,Croatia,25.0,35.9
+Willian,29,Brazil,30.5,28.2
+Sergio Asenjo,29,Spain,24.0,19.2
+E. Banega,30,Argentina,29.0,23.0
+A. Witsel,29,Belgium,24.0,30.5
+D. Payet,31,France,27.5,23.7
+Jonas,34,Brazil,16.5,35.2
+Sokratis,30,Greece,23.0,21.4
+S. Ruffier,31,France,19.0,15.5
+Falcao,32,Colombia,25.0,34.1
+K. Schmeichel,31,Denmark,19.0,20.8
+Raúl Albiol,32,Spain,18.0,20.6
+A. Gómez,30,Argentina,30.0,29.9
+A. Barzagli,37,Italy,4.2,19.3
+Quaresma,34,Portugal,15.5,24.8
+A. Robben,34,Netherlands,15.5,34.0
+O. Dembélé,21,France,40.0,54.0
+Gabriel Jesus,21,Brazil,41.0,58.5
+Ronaldo Cabrais,26,Brazil,28.0,26.3
+Josué Chiamulera,26,Brazil,22.5,21.0
+Louri Beretta,26,Brazil,28.5,26.7
+P. Kimpembe,22,France,30.5,34.6
+N. Keïta,23,Guinea,34.0,40.5
+C. Tolisso,23,France,34.0,41.2
+T. Lemar,22,France,35.5,42.3
+K. Coman,22,France,34.0,35.8
+J. Tah,22,Germany,29.5,32.0
+Anderson Talisca,24,Brazil,36.5,45.0
+T. Werner,22,Germany,34.5,42.5
+A. Rabiot,23,France,33.0,37.1
+L. Goretzka,23,Germany,34.0,40.9
+Q. Promes,26,Netherlands,30.5,29.4
+H. Ziyech,25,Morocco,32.5,33.8
+Lucas Vázquez,27,Spain,27.0,26.9
+Y. Carrasco,24,Belgium,33.0,35.0
+Gerard Moreno,26,Spain,32.0,31.6
+Felipe,29,Brazil,20.0,14.4
+M. Kova?i?,24,Croatia,35.0,31.3
+Kepa,23,Spain,28.5,38.3
+Manu Trigueros,26,Spain,30.0,27.3
+S. Gnabry,22,Germany,34.5,38.7
+J. Pickford,24,England,25.0,36.2
+S. Savi?,27,Montenegro,26.0,28.4
+J. Stones,24,England,28.5,30.4
+Suso,24,Spain,33.0,29.1
+J. Draxler,24,Germany,32.5,35.8
+Felipe Anderson,25,Brazil,31.5,22.0
+Lucas Moura,25,Brazil,31.0,21.7
+Danilo Pereira,26,Portugal,27.0,26.6
+Nacho Fernández,28,Spain,24.5,23.6
+T. Horn,25,Germany,24.0,26.1
+Allan,27,Brazil,26.5,28.1
+F. Acerbi,30,Italy,19.0,17.6
+Sergi Roberto,26,Spain,26.5,31.3
+Rodrigo,27,Spain,30.5,26.7
+Pizzi,28,Portugal,25.5,24.9
+K. Kampl,27,Slovenia,26.5,24.6
+Neto,28,Brazil,21.0,15.4
+O. Baumann,28,Germany,21.0,16.4
+I. Gueye,28,Senegal,21.0,18.8
+H. Mkhitaryan,29,Armenia,25.5,23.3
+Marcos Alonso,27,Spain,24.0,28.2
+D. Subai?,33,Croatia,13.0,12.9
+K. Glik,30,Poland,19.0,12.5
+K. Strootman,28,Netherlands,21.0,25.6
+B. Dost,29,Netherlands,26.0,30.8
+Oscar,26,Brazil,30.5,27.7
+M. Balotelli,27,Italy,27.5,13.8
+Luiz Gustavo,30,Brazil,19.0,21.1
+Giuliano,28,Brazil,26.0,24.8
+David Luiz,31,Brazil,17.5,16.1
+R. Fährmann,29,Germany,20.0,19.6
+Juan Mata,30,Spain,24.5,30.0
+Adán,31,Spain,15.5,10.8
+Rui Patrício,30,Portugal,16.5,15.0
+Y. Sommer,29,Switzerland,20.0,18.2
+Javi Martínez,29,Spain,20.0,21.9
+L. Bender,29,Germany,20.0,23.4
+Lucas Leiva,31,Brazil,17.5,24.0
+S. Mandanda,33,France,13.0,15.2
+Cesc Fàbregas,31,Spain,22.0,26.3
+M. Dembélé,30,Belgium,24.0,25.2
+F. Ribéry,35,France,11.5,28.5
+R. Jarstein,33,Norway,13.0,10.7
+D. De Rossi,34,Italy,8.0,21.0
+Pepe Reina,35,Spain,6.0,18.9
+J. Pavlenka,26,Czech Republic,19.5,17.0
+M. de Ligt,18,Netherlands,27.0,40.2
+Rodri,22,Spain,29.0,32.5
+Arthur,21,Brazil,32.5,45.3
+G. Donnarumma,19,Italy,29.0,38.0
+Rosberto Dourado,30,Brazil,16.5,17.0
+Juiano Mestres,34,Brazil,6.5,15.4
+Raphaelito Anjos,30,Brazil,14.0,14.2
+Gelson Martins,23,Portugal,29.5,36.7
+Gonçalo Guedes,21,Portugal,29.0,30.9
+L. Torreira,22,Uruguay,25.0,29.4
+Malcom,21,Brazil,31.5,41.0
+Pau López,23,Spain,21.5,21.5
+L. Hernández,22,France,25.5,33.3
+C. Lenglet,23,France,26.0,29.7
+A. Kramari?,27,Croatia,26.0,25.0
+A. Robertson,24,Scotland,24.5,33.1
+Dani García,28,Spain,20.0,13.3
+F. Bernardeschi,24,Italy,29.5,34.3
+J. Brandt,22,Germany,30.5,38.7
+D. Rugani,23,Italy,24.5,22.2
+Samu Castillejo,23,Spain,29.0,34.0
+João Cancelo,24,Portugal,25.5,37.5
+A. Romagnoli,23,Italy,26.5,30.5
+T. Partey,25,Ghana,25.5,33.5
+Fred,25,Brazil,26.5,27.8
+J. Vardy,31,England,20.0,30.3
+A. Belotti,24,Italy,30.0,33.7
+E. Forsberg,26,Sweden,26.0,24.3
+J. Lingard,25,England,26.5,25.7
+F. Vázquez,29,Argentina,21.5,18.2
+E. Vi?a,28,Bosnia Herzegovina,22.5,20.4
+A. Rüdiger,25,Germany,22.5,19.7
+A. Florenzi,27,Italy,20.5,22.0
+H. Maguire,25,England,23.5,22.9
+T. Meunier,26,Belgium,21.0,23.1
+S. Sané,27,Senegal,18.5,11.7
+G. Kondogbia,25,Central African Rep.,27.5,31.4
+Rafinha,25,Brazil,29.5,34.0
+Gabriel Paulista,27,Brazil,21.0,18.0
+Morata,25,Spain,28.5,29.3
+J. Cillessen,29,Netherlands,18.0,16.8
+W. Ben Yedder,27,France,23.5,24.6
+C. Bakambu,27,DR Congo,26.0,25.7
+Pablo Sarabia,26,Spain,26.0,20.5
+W. Zaha,25,Ivory Coast,28.5,26.6
+Luis Alberto,25,Spain,28.5,33.5
+Jonathan Viera,28,Spain,22.5,21.2
+Bartra,27,Spain,21.0,22.0
+S. Coates,27,Uruguay,21.0,12.6
+Willian José,26,Brazil,26.5,24.9
+Mário Fernandes,27,Russia,18.5,16.7
+Víctor Ruiz,29,Spain,19.5,16.4
+T. Delaney,26,Denmark,21.5,23.4
+K. Casteels,26,Belgium,19.5,20.6
+M. Götze,26,Germany,27.0,35.0
+S. Mustafi,26,Germany,22.5,25.8
+J. Pastore,29,Argentina,21.5,18.5
+Pedro,30,Spain,21.0,21.5
+G. Bonaventura,28,Italy,22.0,20.7
+R. Bürki,27,Switzerland,18.5,18.7
+Taison,30,Brazil,21.0,19.3
+S. Nzonzi,29,France,17.0,20.0
+Marlos,30,Ukraine,21.0,18.4
+A. Ramsey,27,Wales,25.0,24.1
+K. Trippier,27,England,18.5,16.1
+A. Kolarov,32,Serbia,12.5,19.9
+G. Sigurðsson,28,Iceland,22.5,18.8
+S. Giovinco,31,Italy,20.0,21.4
+M. Arnautovi?,29,Austria,22.0,19.1
+N. Gaitán,30,Argentina,21.0,22.0
+J. Henderson,28,England,18.0,19.7
+M. Kruse,30,Germany,21.5,27.0
+M. Parolo,33,Italy,9.0,21.8
+L. Fejsa,29,Serbia,17.0,13.4
+A. Rami,32,France,12.5,10.1
+V. ?orluka,32,Croatia,12.5,12.8
+G. Wijnaldum,27,Netherlands,23.0,20.9
+F. Fazio,31,Argentina,15.0,20.4
+O. Giroud,31,France,20.0,26.2
+Marcano,31,Spain,15.0,13.4
+A. Guardado,31,Mexico,19.0,20.5
+E. Garay,31,Argentina,15.0,14.2
+Jardel,32,Brazil,12.5,11.7
+S. Sirigu,31,Italy,13.5,6.1
+E. Viviano,32,Italy,12.5,6.9
+L. Koscielny,32,France,12.5,9.2
+A. Consigli,31,Italy,13.5,6.2
+L. Biglia,32,Argentina,12.5,16.9
+Dani Alves,35,Brazil,4.8,16.1
+David Villa,36,Spain,8.0,26.4
+Aduriz,37,Spain,8.0,28.3
+P. ?ech,36,Czech Republic,3.0,10.3
+Casillas,37,Spain,1.5,10.1
+M. Rashford,20,England,27.0,40.2
+Laure Santeiro,30,Brazil,17.0,16.6
+L. Bailey,20,Jamaica,26.5,40.7
+M. Akanji,22,Switzerland,21.0,29.9
+F. de Jong,21,Netherlands,26.0,41.6
+Nélson Semedo,24,Portugal,20.0,28.4
+Pablo Fornals,22,Spain,24.0,28.6
+Fabián,22,Spain,26.0,41.3
+E. Bailly,24,Ivory Coast,21.0,22.3
+Dani Ceballos,21,Spain,25.0,37.2
+H. Lozano,22,Mexico,24.0,28.9
+Morales,30,Spain,17.0,12.3
+J. Seri,26,Ivory Coast,20.5,13.9
+M. Politano,24,Italy,22.5,23.8
+M. Brozovi?,25,Croatia,18.5,21.7
+Williams,24,Spain,24.5,33.5
+A. Correa,23,Argentina,24.5,38.0
+A. Christensen,22,Denmark,21.5,33.1
+João Mário,25,Portugal,22.5,17.7
+T. Strakosha,23,Albania,17.0,17.5
+E. Hysaj,24,Albania,20.0,26.4
+P. Zieli?ski,24,Poland,24.5,33.3
+Ricardo Pereira,24,Portugal,19.0,27.2
+Grimaldo,22,Spain,20.5,28.0
+R. Guerreiro,24,Portugal,24.0,34.8
+A. Doucouré,25,France,19.5,23.2
+J. Martínez,25,Venezuela,22.5,26.2
+C. Bacca,31,Colombia,16.0,19.5
+A. Plea,25,France,22.0,24.7
+B. Davies,25,Wales,18.5,21.9
+M. Nastasi?,25,Serbia,18.5,20.6
+A. Milik,24,Poland,25.5,35.4
+M. Sabitzer,24,Austria,22.5,31.0
+B. Mendy,23,France,20.0,23.7
+C. Kramer,27,Germany,17.0,21.0
+S. Vrsaljko,26,Croatia,18.0,18.0
+T. Hazard,25,Belgium,21.5,22.4
+K. Bellarabi,28,Germany,18.0,16.4
+S. Zaza,27,Italy,21.0,18.6
+F. Ghoulam,27,Algeria,16.5,14.3
+B. Lecomte,27,France,15.0,14.7
+J. Ili?i?,30,Slovenia,17.0,17.6
+K. Volland,25,Germany,22.0,25.6
+Paco Alcácer,24,Spain,23.5,34.6
+Vitolo,28,Spain,18.0,17.1
+G. Xhaka,25,Switzerland,22.0,18.5
+D. Tadi?,29,Serbia,17.5,16.1
+C. Aránguiz,29,Chile,17.0,11.9
+S. Verdi,25,Italy,19.5,12.9
+D. Lovren,28,Croatia,16.0,8.6
+G. Medel,30,Chile,13.0,10.1
+X. Shaqiri,26,Switzerland,19.0,14.9
+J. Corona,25,Mexico,21.5,24.5
+A. Areola,25,France,16.5,17.3
+K. Vogt,26,Germany,17.5,13.4
+Ander Herrera,28,Spain,17.5,18.4
+E. Salvio,27,Argentina,18.5,16.5
+S. El Shaarawy,25,Italy,21.0,12.5
+C. Smalling,28,England,16.0,11.8
+Hulk,31,Brazil,15.5,18.9
+S. Kagawa,29,Japan,17.5,19.3
+M. Lanzini,25,Argentina,23.0,21.4
+F. Smolov,28,Russia,18.5,12.5
+L. Stindl,29,Germany,18.0,21.9
+O. Toprak,28,Turkey,16.0,14.1
+D. Perotti,29,Argentina,17.5,15.5
+F. Muslera,32,Uruguay,10.0,3.9
+B. Höwedes,30,Germany,13.0,15.1
+S. Kjær,29,Denmark,14.0,8.5
+S. Bender,29,Germany,14.0,8.4
+M. Valbuena,33,France,11.0,14.6
+Pedro León,31,Spain,15.5,13.7
+K. Boateng,31,Ghana,15.0,17.5
+L. Piszczek,33,Poland,7.0,17.0
+A. Candreva,31,Italy,15.5,14.8
+D. Wass,29,Denmark,17.0,16.8
+E. Lamela,26,Argentina,21.0,17.3
+D. Rose,27,England,14.5,14.7
+C. Vela,29,Mexico,17.5,16.3
+Renato Augusto,30,Brazil,16.5,16.0
+A. Valencia,32,Ecuador,10.0,16.6
+L. Fabia?ski,33,Poland,9.0,0.1
+João Moutinho,31,Portugal,15.0,12.7
+Borja Valero,33,Spain,11.0,18.3
+F. Quagliarella,35,Italy,8.0,20.7
+B. Gomis,32,France,14.0,17.1
+Manuel Fernandes,32,Portugal,14.0,12.4
+H. Herrera,28,Mexico,17.5,13.1
+Raffael,33,Brazil,11.0,20.5
+Nani,31,Portugal,15.5,13.1
+J. Milner,32,England,13.5,19.6
+J. Mathieu,34,France,5.5,6.7
+Joaquín,36,Spain,6.0,19.5
+M. Gómez,21,Uruguay,20.5,26.3
+K. Havertz,19,Germany,22.0,39.7
+T. Ndombele,21,France,22.5,37.4
+H. Aouar,20,France,23.5,42.8
+Carlos Soler,21,Spain,21.0,35.2
+Odriozola,22,Spain,18.5,30.2
+M. Almirón,24,Paraguay,19.5,24.7
+Welington Dano,30,Brazil,10.5,10.1
+Everton Andrão,34,Brazil,4.5,10.0
+Oyarzabal,21,Spain,21.0,35.9
+F. Balbuena,26,Paraguay,15.5,12.3
+M. Marega,27,Mali,16.0,10.1
+B. Pavard,22,France,17.5,23.6
+W. Ndidi,21,Nigeria,17.0,22.0
+A. Onana,22,Cameroon,14.5,17.9
+G. Lo Celso,22,Argentina,20.0,28.9
+M. Acuña,26,Argentina,12.5,6.4
+Rúben Neves,21,Portugal,20.5,30.0
+Mariano,24,Dominican Republic,20.0,30.2
+Raúl,28,Brazil,12.0,5.7
+M. Caldara,24,Italy,17.5,22.6
+M. Vecino,26,Uruguay,14.5,16.1
+T. Bakayoko,23,France,17.0,16.7
+M. Dahoud,22,Germany,20.0,27.6
+Rafa,25,Portugal,18.5,21.2
+K. Baldé,23,Senegal,20.0,25.3
+G. Rulli,26,Argentina,14.0,16.7
+F. Armani,31,Argentina,9.0,3.8
+Rony Lopes,22,Portugal,20.0,26.9
+Santi Mina,22,Spain,20.0,28.8
+K. Demirbay,24,Germany,19.5,26.0
+Gayà,23,Spain,16.5,28.6
+André Gomes,24,Portugal,19.5,24.4
+N. Tagliafico,25,Argentina,15.0,11.9
+M. Sanson,23,France,19.5,29.1
+Pacheco,26,Spain,13.0,10.4
+E. Can,24,Germany,19.5,24.6
+H. Çalhano?lu,24,Turkey,19.5,21.4
+M. Ginter,24,Germany,15.5,16.2
+M. Keane,25,England,15.5,13.4
+L. Paredes,24,Argentina,0.0,20.0
+T. Stepanenko,28,Ukraine,12.0,8.0
+L. Shaw,22,England,16.5,21.0
+Z. Feddal,28,Morocco,12.0,-4.7
+S. Haller,24,France,19.0,27.0
+Bernard,25,Brazil,17.5,15.8
+T. Inui,30,Japan,14.0,8.2
+Portu,26,Spain,17.5,5.4
+M. Batshuayi,24,Belgium,19.5,25.4
+E. Zahavi,30,Israel,14.5,13.9
+T. Vaclík,29,Czech Republic,11.5,5.0
+N. Pope,26,England,13.0,4.9
+Héctor Bellerín,23,Spain,16.5,23.4
+P. Kade?ábek,26,Czech Republic,14.0,10.7
+J. Butland,25,England,14.0,13.7
+J. Vestergaard,25,Denmark,14.5,7.3
+J. Tarkowski,25,England,15.5,12.1
+Deulofeu,24,Spain,18.5,12.5
+E. Dier,24,England,16.5,19.0
+J. Murillo,26,Colombia,16.0,15.4
+M. Badelj,29,Croatia,11.5,8.5
+Ismaily,28,Brazil,11.5,10.5
+N. Schulz,25,Germany,14.5,10.1
+L. Digne,24,France,16.0,18.4
+M. Uth,26,Germany,17.5,21.6
+Cristian Tello,26,Spain,16.0,5.3
+D. Vida,29,Croatia,11.5,4.7
+L. Muriel,27,Colombia,17.5,16.2
+V. Aboubakar,26,Cameroon,18.0,18.0
+A. Oxlade-Chamberlain,24,England,19.5,25.7
+S. Aurier,25,Ivory Coast,15.5,19.9
+J. Matip,26,Cameroon,15.0,13.6
+Y. Rakitskyi,28,Ukraine,12.0,5.4
+Sergi Enrich,28,Spain,15.5,16.8
+A. Yarmolenko,28,Ukraine,15.0,14.8
+Hugo Mallo,27,Spain,13.5,9.0
+André Almeida,27,Portugal,12.0,10.7
+D. Didavi,28,Germany,15.0,14.3
+R. Rodríguez,25,Switzerland,15.5,19.6
+R. Pereyra,27,Argentina,15.5,7.6
+Mario Gaspar,27,Spain,12.0,10.3
+Maicon,29,Brazil,11.5,-7.4
+D. Blind,28,Netherlands,12.0,12.7
+J. Zoet,27,Netherlands,12.5,12.0
+A. Ljaji?,26,Serbia,17.5,9.3
+Canales,27,Spain,15.5,12.3
+Iago Falqué,28,Spain,15.0,11.5
+L. de Jong,27,Netherlands,16.0,15.8
+Guaita,31,Spain,9.0,-2.9
